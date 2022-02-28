@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/ecodrips-app-nontsx/static/js/main.c0ee3e64.js",
+    "static/js/377.73af878a.chunk.js": "/ecodrips-app-nontsx/static/js/377.73af878a.chunk.js",
+    "static/media/logo.svg": "/ecodrips-app-nontsx/static/media/logo.034ef726eb08f413c8e9ff1b0abe7414.svg",
+    "index.html": "/ecodrips-app-nontsx/index.html",
+    "main.c0ee3e64.js.map": "/ecodrips-app-nontsx/static/js/main.c0ee3e64.js.map",
+    "377.73af878a.chunk.js.map": "/ecodrips-app-nontsx/static/js/377.73af878a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c0ee3e64.js"
+  ]
+}
